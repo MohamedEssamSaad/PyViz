@@ -4,7 +4,6 @@ CacheControl==0.14.3
 Cython==3.0.12
 Farama-Notifications==0.0.4
 Flask==3.1.2
-GDAL==3.8.4
 GitPython==3.1.45
 ImageIO==2.37.2
 Jinja2==3.1.6
